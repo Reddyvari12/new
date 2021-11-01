@@ -4,3 +4,6 @@ cloud
 micro
 soft
 cherry
+roopesh
+charank
+varisha
