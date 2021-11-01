@@ -1,3 +1,6 @@
 hcl
 microsoft
 cloud
+micro
+soft
+cherry
