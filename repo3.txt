@@ -2,10 +2,6 @@ hcl
 microsoft
 cloud
 micro
-soft
-cherry
-roopesh
-charank
-varisha
-mass 
-edge
+hcl techonlogy
+power 
+people
